@@ -1,0 +1,8 @@
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Lotería\Lotería\bin\Debug\Lotería.exe.config
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Lotería\Lotería\bin\Debug\Lotería.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Lotería\Lotería\bin\Debug\Lotería.pdb
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Lotería\Lotería\obj\Debug\Lotería.csproj.AssemblyReference.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Lotería\Lotería\obj\Debug\Lotería.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Lotería\Lotería\obj\Debug\Lotería.csproj.CoreCompileInputs.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Lotería\Lotería\obj\Debug\Lotería.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Lotería\Lotería\obj\Debug\Lotería.pdb
