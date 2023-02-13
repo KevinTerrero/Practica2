@@ -1,0 +1,8 @@
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\MCMMCD\MCMMCD\bin\Debug\MCMMCD.exe.config
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\MCMMCD\MCMMCD\bin\Debug\MCMMCD.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\MCMMCD\MCMMCD\bin\Debug\MCMMCD.pdb
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\MCMMCD\MCMMCD\obj\Debug\MCMMCD.csproj.AssemblyReference.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\MCMMCD\MCMMCD\obj\Debug\MCMMCD.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\MCMMCD\MCMMCD\obj\Debug\MCMMCD.csproj.CoreCompileInputs.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\MCMMCD\MCMMCD\obj\Debug\MCMMCD.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\MCMMCD\MCMMCD\obj\Debug\MCMMCD.pdb

@@ -1,0 +1,8 @@
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Fracciones\Fracciones\bin\Debug\Fracciones.exe.config
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Fracciones\Fracciones\bin\Debug\Fracciones.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Fracciones\Fracciones\bin\Debug\Fracciones.pdb
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Fracciones\Fracciones\obj\Debug\Fracciones.csproj.AssemblyReference.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Fracciones\Fracciones\obj\Debug\Fracciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Fracciones\Fracciones\obj\Debug\Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Fracciones\Fracciones\obj\Debug\Fracciones.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Fracciones\Fracciones\obj\Debug\Fracciones.pdb

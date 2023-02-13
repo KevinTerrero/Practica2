@@ -1,0 +1,8 @@
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Impares\Impares\bin\Debug\Impares.exe.config
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Impares\Impares\bin\Debug\Impares.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Impares\Impares\bin\Debug\Impares.pdb
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Impares\Impares\obj\Debug\Impares.csproj.AssemblyReference.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Impares\Impares\obj\Debug\Impares.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Impares\Impares\obj\Debug\Impares.csproj.CoreCompileInputs.cache
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Impares\Impares\obj\Debug\Impares.exe
+C:\Users\MSII\OneDrive\Desktop\UNPHU CLASSES\SEPTIMO CUATRIMESTRE\Lenguaje de Programacion C\Impares\Impares\obj\Debug\Impares.pdb
